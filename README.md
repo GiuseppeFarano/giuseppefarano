@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Giuseppe, and I'm a Computer Engineering student interested in AI and Data Science
+
+- 🔭 I’m currently having an internship <!-- at CNR (National Research Council) --> in which I'm experimenting customization of Deep Learning models to Hyperspectral Images Classification
+- 🌱 I’m currently working on a project <!-- in collaboration with IBM --> to improve LLMs capabilities over SQL query generation
+
 <!--
 **GiuseppeFarano/giuseppefarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
